@@ -1,0 +1,9 @@
+.page {
+    font-size: 40px;
+    color:red;
+    position: absolute;
+    left: 320px;
+    top: 280px;
+    text-transform: uppercase;
+
+}

@@ -1,0 +1,8 @@
+.list {
+    color: green;
+    font-size: 40px;
+    position: absolute;
+    left: 320px;
+    top: 280px;
+    text-transform: uppercase;
+}
